@@ -2,9 +2,9 @@
 
 ### I'm a coder :older_man:
 
-- :memo: Javaer、Scalaer :ferris_wheel: wheeler
+- :memo: Javaer :ferris_wheel: wheeler
 - :shell: Python :bug:Crawling
-- :book: Reading   
+- :book: Philosophy, History, Sociology
 - :raising_hand: :stuck_out_tongue_winking_eye: involution
 
 ###  :calendar:
@@ -14,12 +14,12 @@
 - 🌑: 
 
 
-
+<!--
  <img src="https://github-readme-stats.vercel.app/api?username=poplar-hub&amp;show_icons=true&amp;theme=Gradient" alt="private github information" style="zoom: 67%;" />
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poplar-hub&amp;layout=compact&amp;langs_count=8&amp;hide_border=true" alt="private language" style="zoom: 67%;" />
 
-<!--
+
 |  分级  | 阅读完成度 | 含义 |
 | :---: | -------- | ---- |
 |   1   | :full_moon: | :full_moon_with_face: 完成阅读，方法/字段已读完，实现过程已了解 |
